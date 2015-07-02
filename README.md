@@ -10,6 +10,4 @@ Table of contents
 
 ### Books
 #### [Learn You a Haskell](http://learnyouahaskell.com/)
-```
 A great book to get started with the haskell programming language.
-```
