@@ -1,7 +1,7 @@
 recommendations
 ===============
 
-A repository dump links to all kinds of things into until we find a better
+A to repository dump links to all kinds of things into until we find a better
 solution.
 
 Table of contents
