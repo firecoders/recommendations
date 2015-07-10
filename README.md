@@ -6,7 +6,13 @@ solution.
 
 Table of contents
 -----------------
+- [Articles](#articles)
 - [Books](#books)
+- [Talks](#talks)
+
+### Articles
+#### [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
+A bunch of cool tricks for containers and iterators in python.
 
 ### Books
 #### [Higher-Order Perl](http://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf)
@@ -47,3 +53,8 @@ their applications. Maybe some nice insights into software architecture.
 
 #### [The Cathedral and the Bazzar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 A classic. This book is about the benefits about the FOSS development process.
+
+### Talks
+#### [Transform Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
+A bunch of cool, idiomatic tricks in python to improve your code's speed and
+readability.
