@@ -14,6 +14,9 @@ Table of contents
 #### [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
 A bunch of cool tricks for containers and iterators in python.
 
+#### [Lens Tutorial – Introduction (part 1)](http://blog.jakubarnold.cz/2014/07/14/lens-tutorial-introduction-part-1.html)
+The first in a series of blog posts about the lens library.
+
 ### Books
 #### [Higher-Order Perl](http://hop.perl.plover.com/book/pdf/HigherOrderPerl.pdf)
 Functional programming in perl. It gets pretty crazy, like trying to implement
