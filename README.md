@@ -8,6 +8,7 @@ Table of contents
 -----------------
 - [Articles](#articles)
 - [Books](#books)
+- [Papers](#papers)
 - [Talks](#talks)
 
 ### Articles
@@ -56,6 +57,11 @@ their applications. Maybe some nice insights into software architecture.
 
 #### [The Cathedral and the Bazzar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 A classic. This book is about the benefits about the FOSS development process.
+
+### Papers
+#### [Why functional programming matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+A paper demonstrating the benefits of higher-order functions and lazyness for
+writing modular software.
 
 ### Talks
 #### [Transform Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
