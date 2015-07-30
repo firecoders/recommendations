@@ -64,6 +64,10 @@ A paper demonstrating the benefits of higher-order functions and lazyness for
 writing modular software.
 
 ### Talks
+#### [The Future of Programming](https://vimeo.com/71278954)
+Brett Victor takes a shot at predicting the future of programming from the
+perspective of someone from the year 1973. Very interesting.
+
 #### [Transform Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 A bunch of cool, idiomatic tricks in python to improve your code's speed and
 readability.
