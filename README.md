@@ -10,6 +10,7 @@ Table of contents
 - [Books](#books)
 - [Papers](#papers)
 - [Talks](#talks)
+- [Websites](#websites)
 
 ### Articles
 #### [30 Python Language Features and Tricks You May Not Know About](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html)
@@ -71,3 +72,7 @@ perspective of someone from the year 1973. Very interesting.
 #### [Transform Code into Beautiful, Idiomatic Python](https://www.youtube.com/watch?v=OSGv2VnC0go)
 A bunch of cool, idiomatic tricks in python to improve your code's speed and
 readability.
+
+### Websites
+####[getAwesomeness()](http://getawesomeness.com/)
+A website collecting cool stuff, sorted by programming language.
