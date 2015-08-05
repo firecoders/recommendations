@@ -59,6 +59,10 @@ their applications. Maybe some nice insights into software architecture.
 #### [The Cathedral and the Bazzar](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 A classic. This book is about the benefits about the FOSS development process.
 
+#### [The Not So Short Introduction to LaTeX 2ε](https://tobi.oetiker.ch/lshort/lshort.pdf)
+A very nice introduction to LaTeX. Pretty much everything that you need to get
+started.
+
 ### Papers
 #### [Why functional programming matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 A paper demonstrating the benefits of higher-order functions and lazyness for
